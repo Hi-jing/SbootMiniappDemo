@@ -1,0 +1,8 @@
+server:
+  port: 9001
+
+wechat:
+  miniapp:
+    appId: wx7919f7ba9ba9435e
+    appSecret: ff7b3ebbe5e874bbee7bca155bdf805c
+    templateId: S54oSzfvNvn2uOPHg6u0E8g-n0qlTIBUuxjmuLbi8cU
